@@ -22,4 +22,9 @@ for more info on the Swiss-system: https://en.wikipedia.org/wiki/Swiss-system_to
 
  to run tournament.py and tournament_test.py:
  6. exit psql by typing '\q'
+ 7. enter the python interpreter by typing 'python'
+ 8. import tournament.py by typing 'import tournament' into the interpreter
+ 9. you can now perform the functions listed above by typing 'tournament.function()' into the interpreter (ex. tournament.countPlayers())
+
+
  7. run python scripts by typing 'python tournament.py' or 'python tournament_test.py'
